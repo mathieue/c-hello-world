@@ -2,8 +2,6 @@
 
 #include<stdio.h>
 
-main()
-{
-    printf("Hello World");
-
+main() {
+    printf("Hello World\n");
 }
